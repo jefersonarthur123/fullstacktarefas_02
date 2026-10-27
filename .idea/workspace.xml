@@ -5,81 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd27df7-a341-46e5-b96c-f1f10539955f" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/_svelte_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/_svelte_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-2GZWIDJV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-2GZWIDJV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-345347NJ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-345347NJ.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-3AAKBQR3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-3AAKBQR3.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-4QLTIES7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-4QLTIES7.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-5JOFXRHR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-5JOFXRHR.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7L4GPZPV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7L4GPZPV.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7RQDXF5S.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7RQDXF5S.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-IMNB26LL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-IMNB26LL.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-OHYQYV5R.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-OHYQYV5R.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-RGCWBQTX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-RGCWBQTX.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-UGBVNEQM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-UGBVNEQM.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-VIEJFFHU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-VIEJFFHU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-X3MSSKZO.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-X3MSSKZO.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_animate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_animate.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_attachments.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_attachments.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_easing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_easing.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_events.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_events.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_client.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_disclose-version.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_disclose-version.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_async.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_legacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_legacy.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_tracing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_tracing.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_legacy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_legacy.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_motion.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_motion.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity_window.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity_window.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_store.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_transition.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_transition.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/App.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/components/TarefaForm.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/components/TarefaForm.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/components/TarefaItem.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/components/TarefaItem.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/components/TarefaList.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/components/TarefaList.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/src/src/tarefaService.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/src/services/tarefaService.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/svelte.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/svelte.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-svelte/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,16 +15,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Bueno897564"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bueno897564&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Bueno897564/fullstack_tarefas_02_spring_svelte.git",
-    "accountId": "e9d9493f-39a7-440b-be46-b86258ce4be5"
+    "accountId": "a707dff7-ae30-4e53-9239-895166b5f34c"
   }
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
@@ -160,12 +86,42 @@
       <entry key="W1" value="4.973898479363603" />
     </decayedShown>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LHZLKAAR1lfs7WvoEIxqKzIia4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -175,8 +131,18 @@
       <option name="project" value="LOCAL" />
       <updated>1793110134752</updated>
     </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd27df7-a341-46e5-b96c-f1f10539955f" name="Changes" comment="Commit" />
+      <created>1793112899350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793112899350</updated>
+    </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.svelte" />
