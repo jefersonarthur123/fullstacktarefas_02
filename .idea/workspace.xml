@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd27df7-a341-46e5-b96c-f1f10539955f" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/curso/listadetarefas/api/br/com/curso/listadetarefas/desktop/desktop/MainSwingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/curso/listadetarefas/api/br/com/curso/listadetarefas/desktop/desktop/Tarefa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/curso/listadetarefas/api/br/com/curso/listadetarefas/desktop/desktop/TarefaApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/curso/listadetarefas/api/br/com/curso/listadetarefas/desktop/desktop/TarefaSwingFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-svelte/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-svelte/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +29,12 @@
     &quot;assignee&quot;: &quot;Bueno897564&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Bueno897564/fullstack_tarefas_02_spring_svelte.git",
-    "accountId": "a707dff7-ae30-4e53-9239-895166b5f34c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bueno897564/fullstack_tarefas_02_spring_svelte.git&quot;,
+    &quot;accountId&quot;: &quot;a707dff7-ae30-4e53-9239-895166b5f34c&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
@@ -86,10 +94,13 @@
       <entry key="W1" value="4.973898479363603" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/web-svelte/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LHZLKAAR1lfs7WvoEIxqKzIia4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -111,6 +122,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -146,9 +161,21 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.svelte" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/curso/listadetarefas/api/br/com/curso/listadetarefas/desktop/desktop/TarefaSwingFrame.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
